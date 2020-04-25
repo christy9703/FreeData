@@ -1,0 +1,4 @@
+#+TODO: TODO IN-PROGRESS WAITING DONE
+
+* Project Scope 
+Provide a platform for data research 
